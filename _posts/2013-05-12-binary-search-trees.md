@@ -23,6 +23,6 @@ was coined by Cayley in 1857 (Cayley, 1857), and the term *graph* was **later**
 introduced by James Joseph Sylvester in 1878 (Sylvester, 1878).
 
 # References
-Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press
-Cayley, A. (1857), On the theory of the analytical forms called trees, Philosophical Magazine, 4th series, 13 : 172-176
-Sylvester, J. J. (1878), Chemistry and Algebra. Nature, volume 17, page 284.
+Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
+Cayley, A. (1857), On the theory of the analytical forms called trees, Philosophical Magazine, 4th series, 13 : 172-176  
+Sylvester, J. J. (1878), Chemistry and Algebra. Nature, volume 17, page 284.  
