@@ -8,7 +8,9 @@ tags: [algorithms, c, datastructures, programming]
 {% include JB/setup %}
 # Brief History
 In 1736, Leonhard Euler's paper
-*Solutio problematis ad geometriam situs pertinentis* was published.
+*Solutio problematis ad geometriam situs pertinentis*
+(*eng:* The solution of a problem relating to the geometry of position) was
+published.
 The paper described the historical problem of the
 [Seven Bridges of Königsberg](http://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg).
 Put shortly, the problem was to find a walk through the city that would cross
