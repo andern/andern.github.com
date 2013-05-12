@@ -25,13 +25,11 @@ was coined by Cayley in 1857 (Cayley, 1857), and the term *graph* was **later**
 introduced by James Joseph Sylvester in 1878 (Sylvester, 1878).
 
 # Test code
-<code>
     struct node {
         int data;
         struct node* left;
         struct node* right;
     };
-</code>
 
 # References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
