@@ -27,7 +27,7 @@ introduced by James Joseph Sylvester in 1878 (Sylvester, 1878).
 # Latex test math
 
 Let us test some set notation. How about
-<code> \[ x \in \left{1,2,3\right}\]
+<code> \[ x \in \left{1,2,3\right}\] </code>
 where x is a set.
 
 # References
