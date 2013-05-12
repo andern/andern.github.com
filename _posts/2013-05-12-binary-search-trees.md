@@ -2,7 +2,7 @@
 layout: post
 title: "Binary Search Trees"
 description: ""
-category: Computer Science
+category: computerscience
 tags: [algorithms, c, datastructures, programming]
 ---
 {% include JB/setup %}
