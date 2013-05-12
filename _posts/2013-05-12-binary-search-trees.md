@@ -24,6 +24,12 @@ started studying a particular class of graphs, namely trees. The term *tree*
 was coined by Cayley in 1857 (Cayley, 1857), and the term *graph* was **later**
 introduced by James Joseph Sylvester in 1878 (Sylvester, 1878).
 
+# Latex test math
+
+Let us test some set notation. How about
+<code> \[ x \in \left{1,2,3\right}\]
+where x is a set.
+
 # References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
 Cayley, A. (1857), On the theory of the analytical forms called trees, Philosophical Magazine, 4th series, 13 : 172-176  
