@@ -26,11 +26,11 @@ introduced by James Joseph Sylvester in 1878 (Sylvester, 1878).
 
 # Test code
 <code>
-struct node {
-    int data;
-    struct node* left;
-    struct node* right;
-};
+    struct node {
+        int data;
+        struct node* left;
+        struct node* right;
+    };
 </code>
 
 # References
