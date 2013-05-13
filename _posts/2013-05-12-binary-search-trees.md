@@ -39,9 +39,8 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
     };
 Test syntax highlighting later.
 
-Testing latex, how does it work? Just like this?
-['x = 5']
-Or not?
+The manual says that inline latex can be $x = 5$ inserted like that.
+
 # References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
 Cayley, A. (1857), On the theory of the analytical forms called trees, Philosophical Magazine, 4th series, 13 : 172-176  
