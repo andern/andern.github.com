@@ -63,3 +63,14 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.maruku-equation {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.maruku-equation img {   
+    margin-left: 20px;
+    margin-right: 20px;
+}

@@ -6,7 +6,17 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
-markdown: rdiscount
+markdown: maruku
+baseurl: /
+destination: ./_site
+include: images
+
+maruku:
+    use_tex: true
+    use_divs: true
+    png_dir: images/latex
+    png_url: /images/latex/
+#    png_engine: blahtex
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
