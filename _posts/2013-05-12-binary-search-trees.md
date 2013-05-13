@@ -37,15 +37,23 @@ Euler pointed out that it was only the order of which the bridges were crossed
 that was relevant to solving the problem. By eliminating all factors except
 the land masses and the bridges that connected them, we can model the problem
 in a more abstract manner.
+
 <div class="figure">
   <p><img class="scaled" src="/images/bst/Konigsberg_bridges.png"
       alt="The Seven Bridges of Königsberg">
   <p>Figure 1: The Seven Bridges of Königsberg. Copyright(C) Bogdan Giuşcă.
 </div>
+
 Figure 1 shows a map of Königsberg in around 1736,
 highlighting the seven bridges. By drawing the land masses as simple circles,
 and drawing lines between them to symbolize the edges, we end up with something
 like Figure 2.
+
+<div class="figure">
+  <p><a href="/images/bst/konigsberggraph.tex"><img class="scaled" src="/images/bst/konigsberggraph.svg"
+      alt="Graph of The Seven Bridges of Königsberg"></a>
+  <p>Figure 1: A Graph of The Seven Bridges of Königsberg.
+</div>
 
 # <a id="references"></a>References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
