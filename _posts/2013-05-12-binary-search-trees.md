@@ -26,7 +26,7 @@ The paper is considered the first paper in graph theory (although the term
 Joseph Sylvester (Sylvester, 1878)) and Euler is therefore considered
 the founder of graph theory (Biggs, Lloyd, Wilson, 1986).
 
-[1]: http://yandex.st/highlightjs/7.3/styles/default.min.css
+[1]: https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg
 
 More than a century after Euler's paper, British mathematician Arthur Cayley
 started studying a particular class of graphs, namely trees. The term *tree*
