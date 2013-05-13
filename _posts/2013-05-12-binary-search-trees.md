@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Binary Search Trees"
-description: ""
+description: "BST"
 category: computerscience
 tags: [algorithms, c, datastructures, programming]
 ---
