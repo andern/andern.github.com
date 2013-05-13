@@ -32,7 +32,7 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 # Test
 Test syntax highlighting.
 <code class="c++">
-    int data;
+int data;
 </code>
 
 Testing math
