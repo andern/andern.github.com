@@ -33,9 +33,8 @@ started studying a particular class of graphs, namely trees. The term *tree*
 was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Graphs
+<img align="center" src="/images/bst/Konigsberg_bridges.png" />  
 
-![photokonigsberg][]
-<img src="/images/bst/Konigsberg_bridges.png" align="center" />  
 <p align="center">Text centered under image?</p>
 
 # <a id="references"></a>References
