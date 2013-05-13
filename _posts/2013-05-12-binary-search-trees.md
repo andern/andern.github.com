@@ -8,7 +8,7 @@ tags: [algorithms, c, datastructures, programming]
 {% include JB/setup %}
 
 Table of contents:
-[Brief History](#history)
+[Brief History](#history)  
 [References](#references)
 
 # <a id="history"></a>Brief History
