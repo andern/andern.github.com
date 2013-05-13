@@ -34,8 +34,8 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Graphs
 
-![photokonigsberg][]
-| | **Text centered under image?** |
+![photokonigsberg][]  
+<div style="float: center">**Text centered under image?**</div>
 
 [photokonigsberg]: /images/bst/Konigsberg_bridges.png "The seven bridges of Konigsberg." plate=yes portrait=yes
 
