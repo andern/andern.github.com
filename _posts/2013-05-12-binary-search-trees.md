@@ -35,7 +35,7 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 # Graphs
 Euler pointed out that it was only the order of which the bridges were crossed
 that was relevant to solving the problem. By eliminating all factors except
-the land masses and the bridges that connected them, we can model the problem
+the land masses and the bridges that connect them, we can model the problem
 in a more abstract manner.
 
 <div class="figure">
@@ -46,10 +46,10 @@ in a more abstract manner.
 
 Figure 1 shows a map of Königsberg in around 1736,
 highlighting the seven bridges. By drawing the land masses as simple circles,
-and drawing lines between them to symbolize the edges, we end up with something
-like Figure 2.
+and drawing lines between them to symbolize the bridges, we end up with
+something like Figure 2.
 
-<div class="figure">
+<div class="figure" style="float:left">
   <p><a href="/images/bst/konigsberggraph.tex"><img class="scaled" src="/images/bst/konigsberggraph.svg"
       alt="Graph of The Seven Bridges of Königsberg"></a>
   <p>Figure 2: A Graph of The Seven Bridges of Königsberg.
