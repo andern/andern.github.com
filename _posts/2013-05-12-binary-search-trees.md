@@ -39,6 +39,11 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
     };
 Test syntax highlighting later.
 
+Testing math
+<div> \[
+x = 5
+\] </div>
+
 The manual says that inline latex can be inserted like that.
 
 # References
