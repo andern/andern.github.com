@@ -31,15 +31,11 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Test
 Test syntax highlighting.
-<pre>
-<code class="c++">
-struct vertex {
-    int data;
-    struct vertex* left;
-    struct vertex* right;
-};
-</code>
-</pre>
+    struct vertex {
+        int data;
+        struct vertex* left;
+        struct vertex* right;
+    };
 
 Testing math
 <div> \[
