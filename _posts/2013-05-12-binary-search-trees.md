@@ -34,14 +34,9 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Graphs
 
-![photokonigsberg][]  
-<div style="float: center">**Text centered under image?**</div>
-
-[photokonigsberg]: /images/bst/Konigsberg_bridges.png "The seven bridges of Konigsberg." plate=yes portrait=yes
-
-
-
-
+![photokonigsberg][]
+<img src="/images/bst/Konigsberg_bridges.png" style="float:right" />  
+<p style="float:right">Text centered under image?</p>
 
 # <a id="references"></a>References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
