@@ -6,6 +6,9 @@ category: computerscience
 tags: [algorithms, c, datastructures, programming]
 ---
 {% include JB/setup %}
+
+{:toc}
+
 # Brief History
 In 1736, Leonhard Euler's paper
 *Solutio problematis ad geometriam situs pertinentis*
@@ -34,7 +37,7 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 Test syntax highlighting later.
 
 Testing latex, how does it work? Just like this?
-$x = 5$
+['x = 5']
 Or not?
 # References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
