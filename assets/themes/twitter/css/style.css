@@ -1,5 +1,4 @@
-div {
-    width: 200px;
+div.content {
     word-wrap: break-word;
 }
 
