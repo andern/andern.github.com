@@ -38,7 +38,7 @@ Something about Konigsberg [photokonigsberg].
 
 ![photokonigsberg][]
 
-[photokonigsberg]: images/Konigsberg_bridges.png "The seven bridges of Konigsberg." plate=yes portrait=no
+[photokonigsberg]: /images/Konigsberg_bridges.png "The seven bridges of Konigsberg." plate=yes portrait=no
 
 
 
