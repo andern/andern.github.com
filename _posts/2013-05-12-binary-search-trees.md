@@ -8,7 +8,7 @@ tags: [algorithms, c, datastructures, programming]
 {% include JB/setup %}
 
 Table of contents:
-[Brief History](#briefhistory)
+[Brief History](#brief history)
 
 # Brief History
 In 1736, Leonhard Euler's paper
