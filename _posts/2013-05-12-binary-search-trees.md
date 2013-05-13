@@ -16,7 +16,8 @@ In 1736, Leonhard Euler's paper
 *Solutio problematis ad geometriam situs pertinentis*
 (*eng:* The solution of a problem relating to the geometry of position) was
 published.
-The paper described the famous problem of the [Seven Bridges of Königsberg][1].
+The paper described the famous problem of the
+[Seven Bridges of Königsberg][1].
 Put shortly, the problem was to find a walk through the city that would cross
 each of the seven bridges only once. Euler proved in his paper that the problem
 had no solution.
@@ -25,7 +26,7 @@ The paper is considered the first paper in graph theory (although the term
 Joseph Sylvester (Sylvester, 1878)) and Euler is therefore considered
 the founder of graph theory (Biggs, Lloyd, Wilson, 1986).
 
-    [1]: http://yandex.st/highlightjs/7.3/styles/default.min.css
+[1]: http://yandex.st/highlightjs/7.3/styles/default.min.css
 
 More than a century after Euler's paper, British mathematician Arthur Cayley
 started studying a particular class of graphs, namely trees. The term *tree*
