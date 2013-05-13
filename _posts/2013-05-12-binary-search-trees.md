@@ -34,11 +34,9 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Graphs
 
-Something about Konigsberg [photokonigsberg].
+Something about Konigsberg ![photokonigsberg][] with picture between text.
 
-![photokonigsberg][]
-
-[photokonigsberg]: /images/bst/Konigsberg_bridges.png "The seven bridges of Konigsberg." plate=yes portrait=no
+[photokonigsberg]: /images/bst/Konigsberg_bridges.png "The seven bridges of Konigsberg." plate=yes portrait=yes
 
 
 
