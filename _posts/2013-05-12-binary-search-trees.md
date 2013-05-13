@@ -33,7 +33,11 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 Test syntax highlighting.
 <pre>
 <code class="c++">
-int data;
+struct vertex {
+    int data;
+    struct vertex* left;
+    struct vertex* right;
+};
 </code>
 </pre>
 
