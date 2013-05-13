@@ -31,7 +31,7 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Test
 Test syntax highlighting.
-<pre><code>
+<pre><code class="c++">
 struct node {
     int data;
     struct node* left;
