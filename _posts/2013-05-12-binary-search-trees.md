@@ -9,6 +9,7 @@ tags: [algorithms, c, datastructures, programming]
 
 Table of contents:
 [Brief History](#history)
+[References](#references)
 
 # <a id="history"></a>Brief History
 In 1736, Leonhard Euler's paper
@@ -50,7 +51,7 @@ x = 5
 
 The manual says that inline latex can be inserted like that.
 
-# References
+# <a id="references"></a>References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
 Cayley, A. (1857), On the theory of the analytical forms called trees, Philosophical Magazine, 4th series, 13 : 172-176  
 Sylvester, J. J. (1878), Chemistry and Algebra. Nature, volume 17, page 284.  
