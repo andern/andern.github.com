@@ -39,7 +39,7 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
     };
 Test syntax highlighting later.
 
-The manual says that inline latex can be $x = 5$ inserted like that.
+The manual says that inline latex can be inserted like that.
 
 # References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
