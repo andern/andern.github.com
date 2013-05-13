@@ -31,9 +31,11 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Test
 Test syntax highlighting.
+<pre>
 <code class="c++">
 int data;
 </code>
+</pre>
 
 Testing math
 <div> \[
