@@ -33,9 +33,11 @@ started studying a particular class of graphs, namely trees. The term *tree*
 was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Graphs
-<img align="center" src="/images/bst/Konigsberg_bridges.png" />  
-
-<p align="center">Text centered under image?</p>
+<div class="figure">
+  <p><img class="scaled" src="/images/bst/Konigsberg_bridges.png"
+      alt="The Seven Bridges of Konigsberg">
+  <p>The Seven Bridges of Konigsberg
+</div>
 
 # <a id="references"></a>References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
