@@ -7,7 +7,8 @@ tags: [algorithms, c, datastructures, programming]
 ---
 {% include JB/setup %}
 
-Table of contents:  
+Table of contents:
+
 * Line
 {:toc}
 
