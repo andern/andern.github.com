@@ -37,6 +37,12 @@ Test syntax highlighting.
         struct vertex* right;
     };
 
+
+Let us test some more code:
+    public static void main(String[] args) {
+        System.out.println("What the fuck?");
+    }
+
 Testing math
 <div> \[
 x = 5
