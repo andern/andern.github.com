@@ -32,6 +32,13 @@ More than a century after Euler's paper, British mathematician Arthur Cayley
 started studying a particular class of graphs, namely trees. The term *tree*
 was coined by Cayley himself in 1857 (Cayley, 1857).
 
+# Graphs
+
+Something about Konigsberg [photokonigsberg].
+
+![photokonigsberg][]
+
+[photokonigsberg]: images/Konigsberg_bridges.png "The seven bridges of Konigsberg." plate=yes portrait=no
 
 
 
