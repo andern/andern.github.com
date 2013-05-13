@@ -35,8 +35,8 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 # Graphs
 <div class="figure">
   <p><img class="scaled" src="/images/bst/Konigsberg_bridges.png"
-      alt="The Seven Bridges of Konigsberg">
-  <p>The Seven Bridges of Konigsberg
+      alt="The Seven Bridges of Königsberg">
+  <p>Figure 1: The Seven Bridges of Königsberg. Copyright(C) Bogdan Giuşcă.
 </div>
 
 # <a id="references"></a>References
