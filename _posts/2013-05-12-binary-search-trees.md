@@ -26,13 +26,13 @@ started studying a particular class of graphs, namely trees. The term *tree*
 was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Test code
-{% highlight c %}
+```c
 struct node {
     int data;
     struct node* left;
     struct node* right;
 };
-{ %endhighlight %}
+```
 
 # References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
