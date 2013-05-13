@@ -32,11 +32,7 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 # Test
 Test syntax highlighting.
 <pre><code class="c++">
-struct node {
     int data;
-    struct node* left;
-    struct node* right;
-};
 </code></pre>
 
 Testing math
