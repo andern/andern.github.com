@@ -32,12 +32,14 @@ started studying a particular class of graphs, namely trees. The term *tree*
 was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Test
-    struct node {
-        int data;
-        struct node* left;
-        struct node* right;
-    };
-Test syntax highlighting later.
+Test syntax highlighting.
+{% highlight c %}
+struct node {
+    int data;
+    struct node* left;
+    struct node* right;
+};
+{% endhighlight %}
 
 Testing math
 <div> \[
