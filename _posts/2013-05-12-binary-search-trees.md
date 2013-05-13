@@ -33,13 +33,13 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 
 # Test
 Test syntax highlighting.
-{% highlight c %}
+<pre><code class="c++">
 struct node {
     int data;
     struct node* left;
     struct node* right;
 };
-{% endhighlight %}
+</code></pre>
 
 Testing math
 <div> \[
