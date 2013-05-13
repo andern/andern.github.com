@@ -34,9 +34,7 @@ was coined by Cayley himself in 1857 (Cayley, 1857).
 Test syntax highlighting later.
 
 Testing latex, how does it work? Just like this?
-`\[
-x = \left\{1,2,3\right\}
-\]`
+$x = 5$
 Or not?
 # References
 Biggs, N.; Lloyd, E. and Wilson, R. (1986), Graph Theory, 1736-1936, Oxford University Press  
