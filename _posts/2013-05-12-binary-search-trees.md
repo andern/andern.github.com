@@ -16,7 +16,7 @@ The paper described the historical problem of the
 Put shortly, the problem was to find a walk through the city that would cross
 each of the seven bridges only once. Euler proved in his paper that the problem
 had no solution. The paper is considered the first paper in graph theory
-(although the term graph was not introduced until 1878 by the English
+(although the term *graph* was not introduced until 1878, by the English
 mathematician James Joseph Sylvester (Sylvester, 1878))
 and Euler is therefore considered the founder of graph theory
 (Biggs, Lloyd, Wilson, 1986).
