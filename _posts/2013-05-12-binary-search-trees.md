@@ -8,9 +8,9 @@ tags: [algorithms, c, datastructures, programming]
 {% include JB/setup %}
 
 Table of contents:
-[Brief History][history]
+[Brief History](#briefhistory)
 
-# Brief History [history]
+# Brief History
 In 1736, Leonhard Euler's paper
 *Solutio problematis ad geometriam situs pertinentis*
 (*eng:* The solution of a problem relating to the geometry of position) was
